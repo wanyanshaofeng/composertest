@@ -1,5 +1,5 @@
 {
-    "name": "wanyan/uploadfile",
+    "name": "wanyanshaofeng/composertest",
     "description": "test",
     "type": "1",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
 	"autoload": {
 		"psr-4": {
-			"Wanyan\\": "src/"
+			"Composertest\\": "src/"
 		}
 	}
 }
