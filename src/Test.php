@@ -1,9 +1,9 @@
 <?php
-namespace Wanyanshaofeng\Composertest;
+namespace Composertest;
 
 class Test
 {
-	public functon add(){
+	public function  add(){
 		echo '1111';
 	}
 }
