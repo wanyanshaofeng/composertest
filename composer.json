@@ -1,21 +1,19 @@
 {
     "name": "wanyanshaofeng/composertest",
-    "description": "test",
-    "type": "1",
-    "require": {
-        "php": "^5.6"
-    },
-    "license": "MIT",
+    "description": "test composer",
+    "type": "library",
+    "license": "mit",
     "authors": [
         {
             "name": "wanyan",
-            "email": "2428728383@qq.com"
+            "email": "wanyan@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "require": {},
 	"autoload": {
-		"psr-4": {
-			"Wanyanshaofeng\\": "src/"
-		}
-	}
+    "psr-4": {
+      "Wanyanshaofeng\\Composertest\\": "src/"
+    }
+  },
 }
