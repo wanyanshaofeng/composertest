@@ -1,5 +1,5 @@
 <?php
-namespace Composertest;
+namespace Wanyanshaofeng\Composertest;
 
 class Test
 {
