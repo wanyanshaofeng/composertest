@@ -1,0 +1,21 @@
+{
+    "name": "wanyan/uploadfile",
+    "description": "test",
+    "type": "1",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanyan",
+            "email": "2428728383@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Wanyan\\": "src/"
+		}
+	}
+}
