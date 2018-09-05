@@ -24,7 +24,7 @@
     }
  *
  */
-namespace Composertest;
+namespace Wanyanshaofeng;
 
 class UploadFile
 {
