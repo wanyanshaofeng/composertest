@@ -15,10 +15,6 @@
      "psr-4": {
          "Composertest\\": "src/"
       }
-  },
-    "repositories": [
-        {"type": "composer", "url": "http://packagist.phpcomposer.com"},
-        {"packagist": false}
-    ]
+  }
 
 }
